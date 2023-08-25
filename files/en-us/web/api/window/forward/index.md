@@ -1,6 +1,6 @@
 ---
 title: "Window: forward() method"
-short-title: forward()
+short-title: forwar()
 slug: Web/API/Window/forward
 page-type: web-api-instance-method
 status:
